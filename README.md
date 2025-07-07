@@ -1,4 +1,4 @@
-# Implicit SINDy- Handling Rational Nonlinearity
+# Implicit SINDy: Handling Rational Nonlinearity
 
 This repository contains all the code, notebooks, and symbolic tools for performing Implicit SINDy (SINDy-PI).
 ---
@@ -6,7 +6,7 @@ This repository contains all the code, notebooks, and symbolic tools for perform
 ## 📁 Folder Structure
 
 
-</pre><code> 
+<pre><code>
 Chapter-6-Implicit-SINDy/
 ├── Examples_Related/ # Output files (LaTeX, CSV) for discovered models
 ├── Example_1_MMKinetics.ipynb # Michaelis–Menten example 
@@ -19,7 +19,8 @@ Chapter-6-Implicit-SINDy/
 ├── network_utils.py # Interaction network visualization using Jacobians
 ├── environment.yml # Reproducible Python environment
 └── README.md # This file
- <code></pre>
+</code></pre>
+
 ---
 
 
