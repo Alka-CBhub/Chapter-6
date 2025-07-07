@@ -2,8 +2,6 @@
 
 This repository contains all the code, notebooks, and symbolic tools for performing Implicit SINDy (SINDy-PI).
 
-
-
 ---
 ## 📂 Folder Structure
 <pre> <code> 
@@ -14,15 +12,12 @@ Chapter-6-Implicit-SINDy/
 ├── implicit_to_explicit.py # Converts implicit models to explicit symbolic rational form
 ├── sindypi_functions.py # SINDy-PI pipeline, thresholding, evaluation
 ├── rescaling_utils.py # Tools for rescaling explicit rational form
-├── symbolic_parser.py # LaTeX rendering, symbolic cleanup
 ├── steady_states.py # Steady-state computation
 ├── plot_utils.py # Basic plotting utilities
 ├── network_utils.py # Interaction network visualization using Jacobians
 ├── environment.yml # Reproducible Python environment
 └── README.md # This file
  <code> <pre>
-
-
 
 
 ---
@@ -51,7 +46,6 @@ Then open and run any of the notebooks.
 
 ---
 
-
 ## 📦 Dependencies
 This project uses Python 3.10 with the following key packages:
 
@@ -69,3 +63,5 @@ All dependencies are listed in `environment.yml`.
 
 For questions or suggestions, please open an issue on the GitHub repository:  
 👉 [Alka-CBhub/Chapter-6-Implicit-SINDy](https://github.com/Alka-CBhub/Chapter-6-Implicit-SINDy)
+
+---
