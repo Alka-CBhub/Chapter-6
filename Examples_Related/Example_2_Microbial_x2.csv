@@ -1,0 +1,6 @@
+Model,Equation,Numerator Terms,Denominator Terms,Any Negative in Denominator
+0,x2_dot = -0.8005*x1*x2/(1.0*x2 + 1.0),1,2,False
+1,x2_dot = (0.1639*x1*x2 - 0.02111*x2)/(-7.855*x1*x2 + 1.0*x2),2,2,True
+2,x2_dot = -0.8005*x1*x2/(1.0*x2 + 1.001),1,2,False
+3,x2_dot = (0.1082*x1*x2 - 0.008096*x2)/(-10.17*x1*x2 + 1.0*x2),2,2,True
+4,x2_dot = -0.799*x1*x2/(1.0*x2 + 0.9988),1,2,False

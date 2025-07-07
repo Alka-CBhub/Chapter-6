@@ -1,0 +1,11 @@
+digraph {
+	dpi=200
+	rankdir=LR ratio=compress size="10,10"
+	node [color=black fillcolor=lightgoldenrodyellow fontname=Helvetica fontsize=10 shape=circle style="filled,setlinewidth(2)"]
+	edge [fontname=Helvetica fontsize=10 penwidth=2]
+	x1
+	x2
+	x1 -> x2 [style=invis]
+	x1 -> x1 [label=" " arrowhead=normal color=blue]
+	x1 -> x2 [label=" " arrowhead=tee color=red]
+}
