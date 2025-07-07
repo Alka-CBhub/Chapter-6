@@ -1,10 +1,12 @@
-# Implicit SINDy for Rational Nonlinear Dynamics
+# Implicit SINDy- Handling Rational Nonlinearity
 
 This repository contains all the code, notebooks, and symbolic tools for performing Implicit SINDy (SINDy-PI).
-
 ---
-## 📂 Folder Structure
-<pre> <code> 
+
+## 📁 Folder Structure
+
+
+</pre><code> 
 Chapter-6-Implicit-SINDy/
 ├── Examples_Related/ # Output files (LaTeX, CSV) for discovered models
 ├── Example_1_MMKinetics.ipynb # Michaelis–Menten example 
@@ -17,10 +19,10 @@ Chapter-6-Implicit-SINDy/
 ├── network_utils.py # Interaction network visualization using Jacobians
 ├── environment.yml # Reproducible Python environment
 └── README.md # This file
- <code> <pre>
-
-
+ <code></pre>
 ---
+
+
 ## 🧪 Environment Setup
 
 To reproduce results or run notebooks, install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/).
@@ -46,6 +48,7 @@ Then open and run any of the notebooks.
 
 ---
 
+
 ## 📦 Dependencies
 This project uses Python 3.10 with the following key packages:
 
@@ -61,7 +64,7 @@ All dependencies are listed in `environment.yml`.
 
 ## 📬 Contact
 
-For questions or suggestions, please open an issue on the GitHub repository:  
+For questions or suggestions, please open an issue on the GitHub repository:
 👉 [Alka-CBhub/Chapter-6-Implicit-SINDy](https://github.com/Alka-CBhub/Chapter-6-Implicit-SINDy)
 
 ---
